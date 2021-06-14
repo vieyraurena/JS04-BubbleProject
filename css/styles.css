@@ -1,0 +1,9 @@
+body {
+  background-color: #f2ece4;
+}
+
+#canvas{
+  width: 800px;
+  height: 800px;
+  /* background-color: black; */
+}
